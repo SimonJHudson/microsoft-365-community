@@ -50,11 +50,11 @@ SPMM was based on  the [Capability Maturity Model (CMM)](https://en.wikipedia.or
 - Managed (Capable)
 - Optimizing (Efficient).
 
-Not every organization needs to be at the top level. NASA and Boeing have different goals, constraints, and risks to manage than a small marketing or retail organization. As with any organizational capability, the organization should decide if the capability should be a strategic differentiator or simply a basic operational capability based on the organizational strategy. The former may require optimized and foolproof capabilities, where the latter only requires relative efficiency.
+Not every organization needs to be at the top level. NASA and Boeing have different goals, constraints, and risks to manage than a small marketing or retail organization. As with any organizational capability, the organization should decide if the capability should be a strategic differentiator or simply a basic operational capability based on the organizational strategy. The former may require optimized and foolproof capabilities, where the latter only requires relative efficiency. Although satirical, it is also worth reviewing the [Immaturity Model].(https://en.wikipedia.org/wiki/Capability_Immaturity_Model), as it provides a couterpoint view of the characteristics of a disfunctional organisation
 
 ## What's Next?
 
-The goal of expanding the SPMM to the Microsoft 365 level is to help practitioners in the community think through how they can improve their capabilities or decide which capabilities matter most to them. These decisions should be based not just on the technology capabilities themselves, but driven by specific outcome objectives derived from the organizational strategy.
+The goal of expanding the SPMM to the Microsoft 365 level is to help practitioners in the community think through how they can improve their capabilities or decide which capabilities matter most to them. These decisions should be based not just on the technology capabilities themselves, but driven by specific outcome objectives derived from the organizational strategy. We intend to describe a set of Competencies that organizations should consider and suggest Characteristics for each of these aligned with the model's levels. We also will develop tols to assist with profiling and with decision making.
 
 In future articles, we will expand the model several layers deeper. Have thoughts? Add your feedback below.
 
@@ -64,3 +64,4 @@ Principal authors:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit/)
+- [Simon Hudson (Cloud2)](https://www.linkedin.com/in/simonjhudson/)
