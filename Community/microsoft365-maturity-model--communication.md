@@ -143,6 +143,8 @@ The process is well defined and agreed as a standard business process. There are
 - Top down, bottom up, and peer to peer communications are supported
 - Mechanisms to prioritize messages exist in multiple channels, are well defined and broadly understood
 - Basic, mostly manual mechanisms are in place for scheduling communication, updating, removing or archiving superseded or expired communications.
+- Analytics are introduced for some content and/or channels to monitor activity level, engagement, sentiment etc.
+- Live Captions and Live Transcript are used to enhance live communcation activities, to drive wider understanding, engagement and time-shifted access.
 
 #### Impacts
 
@@ -176,7 +178,8 @@ The communication process is actively managed in accordance with agreed processe
 - [Organizational Assets](https://docs.microsoft.com/sharepoint/organization-assets-library), such as agreed imagery, iconography, are standardized for communications use.
 - Written content is formatted and presented to support online reading patterns and accessibility standards
 - Communications are sampled for style, effectiveness etc. and guidance on improvement is offered.
-- Some Compliance and DLP rules are enabled
+- Content creation tools offer writing refinements and suggest tone guidance at teh point of creation.
+- Some Compliance and DLP rules are enabled.
 
 #### Impacts
 
