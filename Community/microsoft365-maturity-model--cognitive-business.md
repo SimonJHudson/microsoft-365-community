@@ -224,6 +224,7 @@ Cognitive business has reached the stage of being a natural, continuous flow of 
 - The generalized narrow AI has reached a level of capability that exceeds the sum of the parts and becomes a core strategic platform specific to the organization. Most discreet cognitive services are now incorporated into this service, increasing its reach and reducing the overhead of training and integrating individual tools.
 - Cognitive systems exhibit proactive interfaces; not just reactive. They will prompt humans as and when appropriate. The use of such systems follows policy and values, with appropriate safeguards.
 - AIs are routinely capable of autonomous action. Where they make mistakes or choose to involve a person in the decision making, the output of this is fed back into the AI to improve it.
+- For creative scenarios, multiple AIs (typically three) and different temperature settings are used to provide creative insights.
 
 #### 500 Governance, Risk, Compliance and Security
 
@@ -235,6 +236,8 @@ Cognitive business has reached the stage of being a natural, continuous flow of 
 - Proprietary cognitive systems and 3rd party systems all comply with Responsible AI initiatives and standards.
 - Designers of cognitive systems are held to account and assessed on their decisions to minimize and control bias.
 - The outcomes from hand-offs of ethically complex issues or outliers to human arbiters are then used to retrain and improve the system.
+- For critical scenarios, multiple AIs (typically three) are used to cross-confirm the AI suggestions. 'Minority Report'-style exceptions are used to critically analyse and understand potential decisions.
+
 
 #### Level 500 Impacts
 
