@@ -117,17 +117,17 @@ When considering Power Automate and Logic Apps, who will create them? Is this in
 
 #### Learning Power Automate
 
-For users and staff, there is a set of courses on [Microsoft Learn](/learn/browse/?terms=Automate&products=power-platform) if you want to know more about building flows to gain more in-depth knowledge about the usage of the services.
+For users and staff, there is a set of courses on [Microsoft Learn training](/training/browse/?terms=Automate&products=power-platform) if you want to know more about building flows to gain more in-depth knowledge about the usage of the services.
 
 #### Learning Azure Logic Apps
 
-For ICT or SME users looking to improve their knowledge, there is a set of courses on [Microsoft Learn](/learn/browse/?products=azure&terms=Logic%20Apps) if you want to know more about Logic Apps to gain a deeper understanding about the usage of the services and how they can integrate with a range of connectors.
+For ICT or SME users looking to improve their knowledge, there is a set of courses on [Microsoft Learn training](/training/browse/?products=azure&terms=Logic%20Apps) if you want to know more about Logic Apps to gain a deeper understanding about the usage of the services and how they can integrate with a range of connectors.
 
 ### Consider the cost of connectors
 
 What services do you intend to connect with?, are they Office 365?, Azure or 3rd Party API.
 
-This is quite important to work out ahead of time as difference connectors bear a "Premium" or "Enterprise" (in the case of Logic Apps) which affect the overall cost of running the workflow in your decision-making process.
+This is quite important to work out ahead of time as different connectors bear a "Premium" or "Enterprise" (in the case of Logic Apps) which affect the overall cost of running the workflow in your decision-making process.
 
 You may find that within your Office licenses you already have what you need to start building Flows with Power Automate - however for Premium connectors, additional licenses may be required.
 

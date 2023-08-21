@@ -45,7 +45,7 @@ If you can Enable versioning, you can Disable versioning. Disabling versioning d
 > [!Note]
 > **A Cautionary Tale:**  As site owner, if you disable Versioning and *don't* tell your end users, they'll notify you. In person.
 
-Note: Versioning can also be enabled or disabled through PowerShell, SharePoint Designer, or by a developer using CSOM.
+Note: Since No Versioning is removed from SharePoint Online，it can be enabled or disabled through PowerShell, SharePoint Designer, or by a developer using CSOM.
 
 ## Accessing Previous Versions
 
@@ -75,7 +75,7 @@ Libraries can have both Major versions, which are represented with whole numbers
 Lists usually only have Major versions.
 
 > [!NOTE]
-> All versions count against your SharePoint storage usage, as do files in the recycle bins and files preserved due to retention policies.
+> All versions count against your SharePoint storage usage, as do files in the recycle bins and files preserved due to retention policies. In calculating the SharePoint storage usage, the full file size of each version counts towards the total usage. For example, if only metadata changes were made to a 10 MB file with no change to its file size, the total storage usage will be 10 MB (original version) + 10 MB (updated version) = 20 MB.
 
 ## Best Practices and Versioning Trivia
 
@@ -86,6 +86,14 @@ Lists usually only have Major versions.
 * In a list with versioning enabled, attachment changes are not versioned.
 * Limiting the number of versions is generally a good practice. It means you can conserve space on the server and reduce clutter for users. But, if your organization is required to save all versions for legal or other reasons, don’t apply any limits.
 * As best practice PST files should not be uploaded on OneDrive for Business and SharePoint Online team site document libraries due to the impact on storage. If PST files are uploaded the service will retain versions for 30 days.
+
+## Versioning with autosave and co-authoring
+
+By default, SharePoint saves a version of a document every time a user clicks the "Save" button. However, if autosave is turned on, SharePoint will automatically save a version of the document every few minutes.
+
+When co-authoring is enabled in SharePoint, multiple users can work on the same document simultaneously. Each user's changes are tracked and saved as a new version. When a user saves changes to a document that is being co-authored, SharePoint will save a new version of the document that includes all of the changes made by all co-authors.
+
+It's important to note that co-authoring can have an impact on versioning in SharePoint. If multiple users are working on the same document at the same time, it can be difficult to keep track of who made which changes and when. SharePoint does its best to track changes and create new versions as needed, but it's still important for users to communicate and coordinate when co-authoring to ensure that changes are properly tracked and versioned.
 
 ### Further Reading
 
