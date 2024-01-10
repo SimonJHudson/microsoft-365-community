@@ -145,10 +145,11 @@ At level 300, the organization is actively considering how to enhance its knowle
 #### 300 General
 
 - Attempts are made to ensure source and training data is well structured, clean and of sufficient quality. The quality of the training input to cognitive models is managed, with attempts to minimize bias and errors.  A set of metrics is established to confirm this.
-- Staff have some understanding of how to ask questions of the AI tools to get useful outputs.
+- Staff have some understanding of how to ask questions of the AI tools to get useful outputs, including being more verbose and conversatoinal in the queries (in contracts to their Search experience). There are attempts to capture and share effective prompts. 
 - The limitations of the insights, knowledge and behaviors of people as the benchmark for AI ‘accuracy’ are considered.
 - The organization has laid out a broad strategy for AI setting out their aspirations. Elements of this may be naïve, lacking actionable detail and measurable objectives, and may lack resources and senior sponsorship, but it acts as an important starting point and touchstone.
 - The technology is not treated as internally or externally disruptive.
+
 
 #### 300 Technology
 
@@ -160,6 +161,7 @@ At level 300, the organization is actively considering how to enhance its knowle
 #### 300 Governance, Risk, Compliance and Security
 
 - It is understood that AI needs some level of governance and oversight. This activity is probably vested in the IT team and is not aligned with broader business strategy and policies.
+- It is understaood that data and content governance needs to be robust to ensure that AI assistants with access to corporate content are using up to date and appropriate infomration.
 - The organization develops and models rules of engagement and governance to take advantage of the benefits of the cognitive systems.
 - Governance of all aspects of the cognitive tools is proportionate to the impacts the system has on business and individuals.
 - It is understood that using public platforms may indirectly place your IP in the public domain. This even applies to asking questions of GPT tools. Staff are briefed on this risk.
@@ -180,6 +182,7 @@ There are processes to build, deploy, integrate, and manage AI alongside staff i
 #### 400 General
 
 - Staff are trained and competent in interacting with tools to optimize their useful outputs.
+- There is active sharing of effective and best practice AI prompts between staff across business functions. A community of Interest develops around these.
 - Policies exist and are widely understood regarding AI transparency, ethics, performance, and scope. These policies are regularly reviewed and updated in recognition of the pace of change of the technology and regulatory environment.
 - AI services frequently work alongside human staff, with each complementing the other. Areas that do not require human intervention have human and AI oversight, with both reviewing feedback.
 - AI that replaces staff roles have line management processes, performance reviews, code of conduct guidelines, etc., that perform the equivalent role to the staff they replace.
@@ -198,7 +201,7 @@ There are processes to build, deploy, integrate, and manage AI alongside staff i
 - Technology limitations are well understood; safeguards and feedback loops are in place.
 - Voice interfaces, natural language processing and other human-centric UIs are present across staff workspaces. There is some use of 'always-on; monitoring within the workplace and process areas.
 - New applications developed within or for the organization actively incorporate cognitive elements, and these incorporate AI ethics and governance by design. Budget commitments are in place to support development using AI tools.
-- Development using custom AI models have a well-established process which includes data quality security, responsible use, and audit.
+- Development using custom AI models have a well-established process which includes data quality security, responsible use, and audit. The orgainsation has experience of extending existing AI technologies with fine tuning, connectors and plug ins. Operational products and solutions have been developede using existing models and there may be new AIs trained using in-house data.
 - A generalized narrow AI, capable of performing many different types of tasks and with a holistic view of the organization, starts to replace many discreet cognitive services.
 - AI is capable of identifying issues and carrying out auto remediation, handing off to a person where necessary.
 
@@ -210,7 +213,7 @@ There are processes to build, deploy, integrate, and manage AI alongside staff i
 - Training data is reviewed regularly for historical bias and gaps that might compromise the ethics of the AI. There is special care taken with externally sourced and public data that may include such bias.
 - Attention is given to national and organizational culture and how this might create bias in the cognitive business. Systems are reviewed against clearly stated values and principles in place in the organization.
 - There are processes to hand off ethically complex issues or outliers from the systems to human arbiters.
-- Inputs to cognitive systems are recorded so that they can be used to validate outputs.
+- Inputs to cognitive systems are recorded so that they can be used to validate outputs. 
 - The risks of cognitive business tools deskilling staff are understood and addressed appropriately, such as through actively retaining skills or accepting that these are lost to the organization and external expertise is used when required.
 
 #### Level 400 Impacts
