@@ -28,17 +28,19 @@ Every communication should have a clear purpose and should achieve that purpose 
 
 The need for active communication, where important or urgent notifications are emphasized above general messaging 'noise' and so direct their attention, should be considered alongside passive 'Publish and Track' or 'For Interest' ('Publish and Forget') approaches. Active communications should be carefully managed to prevent overuse or abuse.
 
+It should be noted that up to 10% of employees have dyslexia, while younger people are often more comfortable receiving video or audio communications. Alternatives to the written word should always be considered to ensure inclusivness and effectiveness.
+
 #### Comprehensive
 
 People shouldn’t be left wondering if there is more to come. The information communicated should be adequate and complete. Where possible, it should fully address the purpose and provide enough that the recipients can take the required action without delay, confusion or a reduction in productivity or motivation. Where communication cannot be completed in a single message etc. then it should clearly indicate that there is more to follow, with requisite when and how. Links to supporting material are recommended
 
 #### Clarity
 
-The purpose of messages should be clear; worded in such a way that the receiver understands the same thing which the sender wants to convey. Communications shouldn’t leave your team confused. Be clear of the format you want to say it in. Be clear about your goal or purpose. It is also essential that the receiver is conversant with the language, inherent assumptions, and the mechanics of communication. Typically, sentences should be short, in the active voice and key elements stated it in separate bullet points.
+The purpose of messages should be clear; worded in such a way that the receiver understands the same thing which the sender wants to convey. Communications shouldn’t leave your team confused. Be clear of the format you want to say it in. Be clear about your goal or purpose. It is also essential that the receiver is conversant with the language, inherent assumptions, and the mechanics of communication. Typically, sentences should be short, in the active voice and key elements stated it in separate bullet points. Use of clarity, comprehension and reading age checkers is recommended; as is obtaining a review (by a colleague or AI) where possible.
 
 #### Attention and Style
 
-In good communication, the receiver’s attention is drawn to the message. People are different in behaviour, attention, emotions etc. so they may respond differently to the message. This may require constructing different message formats for different roles and grades. Senior staff should be seen to be acting in accordance with the messages, using the messaging tools and supporting the messaging processes. Formal communication is generally used for transmitting messages and other information; however, sometimes informal communication may prove more effective. Informal communication can be helpful for assessing the reaction of employees towards various policies. Both types should embrace the organization’s ethos; commonly this is positive, honest, respectful, open and polite.
+In good communication, the receiver’s attention is drawn to the message. People are different in behaviour, attention, emotions etc. so they may respond differently to the message. This may require constructing different message formats for different roles and grades. Senior staff should be seen to be acting in accordance with the messages, using the messaging tools and supporting the messaging processes. Formal communication is generally used for transmitting messages and other information; however, sometimes informal communication may prove more effective. Informal communication can be helpful for assessing the reaction of employees towards various policies. Both types should embrace the organization’s ethos; commonly this is positive, honest, respectful, open and polite. Use of style and sentiment analysis tools can be helpful.
 
 #### Coherency
 
@@ -46,7 +48,7 @@ Communication often takes place across multiple tools/formats and over a period 
 
 #### Timeliness and Urgency
 
-Communication should be done at proper time and with the appropriate level of impact and urgency, to ensure that messages can be understood and acted upon to achieve their objective. It should be possible to differentiate Urgent and Import information and understand the time scale for any actions. There should be confidence that communication reaches their audience when intended.
+Communication should be done at proper time and with the appropriate level of impact and urgency, to ensure that messages can be understood and acted upon to achieve their objective. It should be possible to differentiate Urgent and Import information and understand the time scale for any actions. There should be confidence that communication reaches their audience when intended. It should be possible to easily find previous communications.
 
 #### Importance of Feedback
 
